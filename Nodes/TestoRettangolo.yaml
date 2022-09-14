@@ -59,3 +59,5 @@ Children:
     Type: PropertyType
     DataType: Byte
     Value: 0
+- Name: NetLogicDiRuntime1
+  Type: NetLogic
