@@ -1,0 +1,8 @@
+Name: Model
+Type: FolderType
+Children:
+- Name: Variabile1
+  Id: g=c057dc6ca9547502857ec8e358ea55ee
+  Type: BaseDataVariableType
+  DataType: Float
+  Value: 50.0
